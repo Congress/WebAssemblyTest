@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAssemblyTest", "WebAssemblyTest\WebAssemblyTest\WebAssemblyTest.csproj", "{CC3A46E6-942A-4BE5-BEE1-D7C8D8FDA539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAssemblyTest.Client", "WebAssemblyTest\WebAssemblyTest.Client\WebAssemblyTest.Client.csproj", "{C19DBEF5-D7D0-444D-BD84-1F461D43E336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3A46E6-942A-4BE5-BEE1-D7C8D8FDA539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3A46E6-942A-4BE5-BEE1-D7C8D8FDA539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3A46E6-942A-4BE5-BEE1-D7C8D8FDA539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3A46E6-942A-4BE5-BEE1-D7C8D8FDA539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19DBEF5-D7D0-444D-BD84-1F461D43E336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19DBEF5-D7D0-444D-BD84-1F461D43E336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19DBEF5-D7D0-444D-BD84-1F461D43E336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19DBEF5-D7D0-444D-BD84-1F461D43E336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E429417-24D7-4106-976E-14822592EDE0}
+	EndGlobalSection
+EndGlobal
